@@ -4,13 +4,6 @@
 
 Instead of just solving problems, users rebuild them from the ground up through interactive prompts. From identifying syntax errors to writing solutions line-by-line, Deconstruct transforms technical interview prep into an active, thoughtful learning experience.
 
-Users can filter LeetCode-style questions by difficulty (Easy, Medium, Hard), explore problems by pattern (e.g., Two Sum, Sliding Window), and solve a mix of:
-- ✅ Multiple-choice questions
-- ✏️ Fill-in-the-blank challenges
-- 💬 Short-answer prompts generated using OpenAI
-
-Progress is tracked with XP, daily streaks, and completed problems, making technical interview prep more engaging and game-like.
-
 ---
 
 ## 🚀 Features
